@@ -1,0 +1,23 @@
+# Carpetas generadas
+/target
+/.idea
+/.mvn
+
+# Archivos temporales
+*.iml
+*.log
+*.class
+.DS_Store
+
+# Sistemas operativos
+Thumbs.db
+
+# IDEs
+.vscode/
+
+# Variables de entorno o configuración local
+application-dev.properties
+.env
+
+# Maven
+!.mvn/wrapper/maven-wrapper.jar
