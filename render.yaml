@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: rey-gas-backend
+    runtime: docker
+    env: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
